@@ -16,7 +16,7 @@ drama2 = {
     "제목": "나루토",            # IMPLEMENT ME
     "장르": "닌자액션",            # IMPLEMENT ME
     "주제": "혈통이 중요함",            # IMPLEMENT ME
-    "방영기간": "2002~",         # IMPLEMENT ME
+    "방영기간": "2002-10-10 ~ 2002-10-10",         # IMPLEMENT ME
     "배우": ["나루토"],            # IMPLEMENT ME
     "명대사": "5명이 모이면 ~"           # IMPLEMENT ME
 }
