@@ -7,7 +7,7 @@ drama1 = {
     "제목": "드래곤볼",            # IMPLEMENT ME
     "장르": "모험액션",            # IMPLEMENT ME
     "주제": "손오공이 무제한으로 강해지는걸 보는거",            # IMPLEMENT ME
-    "방영기간": "1988~",         # IMPLEMENT ME  (예: "2024-01-01 ~ 2024-02-01")
+    "방영기간": "1988-10-10 ~ 2024-01-01",         # IMPLEMENT ME  (예: "2024-01-01 ~ 2024-02-01")
     "배우": ["손오공","부르마" "등등"],            # IMPLEMENT ME  (예: ["홍길동", "김코딩"])
     "명대사": "에너르기파"           # IMPLEMENT ME  (예: "\"이 또한 지나가리라.\"")
 }
@@ -45,7 +45,7 @@ drama3 = {
 upd_title = input("수정(덮어쓰기)할 제목(대상: drama2): ")  
 upd_genre = "개그"                         # IMPLEMENT ME: input("수정할 장르: ")
 upd_theme = "군인이래봤자 개구리"                         # IMPLEMENT ME: input("수정할 주제: ")
-upd_period = "2000~"                        # IMPLEMENT ME: input("수정할 방영기간: ")
+upd_period = "2000-01-01~2002-03-05"                        # IMPLEMENT ME: input("수정할 방영기간: ")
 upd_actors_input = "캐로로"                  # IMPLEMENT ME: input("수정할 배우들(쉼표로 구분): ")
 upd_quote_raw = "건프라"                     # IMPLEMENT ME: input("수정할 명대사(따옴표 없이 입력): ")
 
