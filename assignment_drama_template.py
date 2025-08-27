@@ -46,7 +46,7 @@ upd_title = input("수정(덮어쓰기)할 제목(대상: drama2): ")
 upd_genre = "개그"                         # IMPLEMENT ME: input("수정할 장르: ")
 upd_theme = "군인이래봤자 개구리"                         # IMPLEMENT ME: input("수정할 주제: ")
 upd_period = "2000-01-01~2002-03-05"                        # IMPLEMENT ME: input("수정할 방영기간: ")
-upd_actors_input = "캐로로"                  # IMPLEMENT ME: input("수정할 배우들(쉼표로 구분): ")
+upd_actors_input = ["캐로로"]                  # IMPLEMENT ME: input("수정할 배우들(쉼표로 구분): ")
 upd_quote_raw = "건프라"                     # IMPLEMENT ME: input("수정할 명대사(따옴표 없이 입력): ")
 
 upd_actors = upd_actors_input.split(",")
